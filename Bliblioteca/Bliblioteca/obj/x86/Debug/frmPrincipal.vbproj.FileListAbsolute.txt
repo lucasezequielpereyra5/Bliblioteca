@@ -1,0 +1,9 @@
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.exe
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.pdb
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.xml
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.Form1.resources
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.vbproj.GenerateResource.Cache
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.exe
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.xml
+C:\Users\lauta\AppData\Local\Temporary Projects\frmPrincipal\obj\x86\Debug\frmPrincipal.pdb
