@@ -29,20 +29,8 @@ Partial Class frmClientesAdm
         Me.btnAltas = New System.Windows.Forms.Button()
         Me.btnModificar = New System.Windows.Forms.Button()
         Me.pnlAlta = New System.Windows.Forms.Panel()
+        Me.dtpFechaNac = New System.Windows.Forms.DateTimePicker()
         Me.lblPass2 = New System.Windows.Forms.Label()
-        Me.pnlModif = New System.Windows.Forms.Panel()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.clmDni = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmMail = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmPass = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmNombre = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.btnBuscarNombre = New System.Windows.Forms.Button()
-        Me.btnBuscarDni = New System.Windows.Forms.Button()
-        Me.txtBuscarNombre = New System.Windows.Forms.TextBox()
-        Me.txtBuscarDni = New System.Windows.Forms.TextBox()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
         Me.btnAgregar = New System.Windows.Forms.Button()
         Me.txtPass2 = New System.Windows.Forms.TextBox()
         Me.txtPass = New System.Windows.Forms.TextBox()
@@ -57,12 +45,20 @@ Partial Class frmClientesAdm
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.pnlModif = New System.Windows.Forms.Panel()
+        Me.dgvListarClientes = New System.Windows.Forms.DataGridView()
+        Me.btnBuscarNombre = New System.Windows.Forms.Button()
+        Me.btnBuscarDni = New System.Windows.Forms.Button()
+        Me.txtBuscarNombre = New System.Windows.Forms.TextBox()
+        Me.txtBuscarDni = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
         Me.HelpProvider1 = New System.Windows.Forms.HelpProvider()
         Me.btnSocios = New System.Windows.Forms.Button()
-        Me.dtpFechaNac = New System.Windows.Forms.DateTimePicker()
         Me.pnlAlta.SuspendLayout()
         Me.pnlModif.SuspendLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvListarClientes, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnDevolvucion
@@ -143,6 +139,14 @@ Partial Class frmClientesAdm
         Me.pnlAlta.TabIndex = 11
         Me.pnlAlta.Visible = False
         '
+        'dtpFechaNac
+        '
+        Me.dtpFechaNac.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtpFechaNac.Location = New System.Drawing.Point(157, 158)
+        Me.dtpFechaNac.Name = "dtpFechaNac"
+        Me.dtpFechaNac.Size = New System.Drawing.Size(184, 20)
+        Me.dtpFechaNac.TabIndex = 21
+        '
         'lblPass2
         '
         Me.lblPass2.AllowDrop = True
@@ -154,112 +158,6 @@ Partial Class frmClientesAdm
         Me.lblPass2.Size = New System.Drawing.Size(10, 13)
         Me.lblPass2.TabIndex = 20
         Me.lblPass2.Text = "-"
-        '
-        'pnlModif
-        '
-        Me.pnlModif.Controls.Add(Me.DataGridView1)
-        Me.pnlModif.Controls.Add(Me.btnBuscarNombre)
-        Me.pnlModif.Controls.Add(Me.btnBuscarDni)
-        Me.pnlModif.Controls.Add(Me.txtBuscarNombre)
-        Me.pnlModif.Controls.Add(Me.txtBuscarDni)
-        Me.pnlModif.Controls.Add(Me.Label10)
-        Me.pnlModif.Controls.Add(Me.Label9)
-        Me.pnlModif.Controls.Add(Me.Label8)
-        Me.pnlModif.Location = New System.Drawing.Point(528, 12)
-        Me.pnlModif.Name = "pnlModif"
-        Me.pnlModif.Size = New System.Drawing.Size(627, 401)
-        Me.pnlModif.TabIndex = 21
-        '
-        'DataGridView1
-        '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clmDni, Me.clmMail, Me.clmPass, Me.clmNombre})
-        Me.DataGridView1.Location = New System.Drawing.Point(20, 141)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(575, 243)
-        Me.DataGridView1.TabIndex = 7
-        '
-        'clmDni
-        '
-        Me.clmDni.HeaderText = "DNI Cliente"
-        Me.clmDni.Name = "clmDni"
-        '
-        'clmMail
-        '
-        Me.clmMail.HeaderText = "Mail"
-        Me.clmMail.Name = "clmMail"
-        '
-        'clmPass
-        '
-        Me.clmPass.HeaderText = "Contraseña"
-        Me.clmPass.Name = "clmPass"
-        '
-        'clmNombre
-        '
-        Me.clmNombre.HeaderText = "Nombre"
-        Me.clmNombre.Name = "clmNombre"
-        '
-        'btnBuscarNombre
-        '
-        Me.btnBuscarNombre.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
-        Me.btnBuscarNombre.Location = New System.Drawing.Point(426, 84)
-        Me.btnBuscarNombre.Name = "btnBuscarNombre"
-        Me.btnBuscarNombre.Size = New System.Drawing.Size(39, 37)
-        Me.btnBuscarNombre.TabIndex = 6
-        Me.btnBuscarNombre.UseVisualStyleBackColor = True
-        '
-        'btnBuscarDni
-        '
-        Me.btnBuscarDni.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
-        Me.btnBuscarDni.Location = New System.Drawing.Point(347, 28)
-        Me.btnBuscarDni.Name = "btnBuscarDni"
-        Me.btnBuscarDni.Size = New System.Drawing.Size(39, 37)
-        Me.btnBuscarDni.TabIndex = 5
-        Me.btnBuscarDni.UseVisualStyleBackColor = True
-        '
-        'txtBuscarNombre
-        '
-        Me.txtBuscarNombre.Location = New System.Drawing.Point(199, 93)
-        Me.txtBuscarNombre.Name = "txtBuscarNombre"
-        Me.txtBuscarNombre.Size = New System.Drawing.Size(221, 20)
-        Me.txtBuscarNombre.TabIndex = 4
-        '
-        'txtBuscarDni
-        '
-        Me.txtBuscarDni.Location = New System.Drawing.Point(95, 39)
-        Me.txtBuscarDni.Name = "txtBuscarDni"
-        Me.txtBuscarDni.Size = New System.Drawing.Size(221, 20)
-        Me.txtBuscarDni.TabIndex = 3
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(34, 97)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(123, 16)
-        Me.Label10.TabIndex = 2
-        Me.Label10.Text = "Nombre y Apellido:"
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(34, 43)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(34, 16)
-        Me.Label9.TabIndex = 1
-        Me.Label9.Text = "DNI:"
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(30, 10)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(185, 24)
-        Me.Label8.TabIndex = 0
-        Me.Label8.Text = "Buscar cliente por:"
         '
         'btnAgregar
         '
@@ -376,6 +274,91 @@ Partial Class frmClientesAdm
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "DNI:"
         '
+        'pnlModif
+        '
+        Me.pnlModif.Controls.Add(Me.dgvListarClientes)
+        Me.pnlModif.Controls.Add(Me.btnBuscarNombre)
+        Me.pnlModif.Controls.Add(Me.btnBuscarDni)
+        Me.pnlModif.Controls.Add(Me.txtBuscarNombre)
+        Me.pnlModif.Controls.Add(Me.txtBuscarDni)
+        Me.pnlModif.Controls.Add(Me.Label10)
+        Me.pnlModif.Controls.Add(Me.Label9)
+        Me.pnlModif.Controls.Add(Me.Label8)
+        Me.pnlModif.Location = New System.Drawing.Point(27, 106)
+        Me.pnlModif.Name = "pnlModif"
+        Me.pnlModif.Size = New System.Drawing.Size(627, 401)
+        Me.pnlModif.TabIndex = 21
+        '
+        'dgvListarClientes
+        '
+        Me.dgvListarClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvListarClientes.Location = New System.Drawing.Point(20, 141)
+        Me.dgvListarClientes.Name = "dgvListarClientes"
+        Me.dgvListarClientes.Size = New System.Drawing.Size(575, 243)
+        Me.dgvListarClientes.TabIndex = 7
+        '
+        'btnBuscarNombre
+        '
+        Me.btnBuscarNombre.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
+        Me.btnBuscarNombre.Location = New System.Drawing.Point(426, 84)
+        Me.btnBuscarNombre.Name = "btnBuscarNombre"
+        Me.btnBuscarNombre.Size = New System.Drawing.Size(39, 37)
+        Me.btnBuscarNombre.TabIndex = 6
+        Me.btnBuscarNombre.UseVisualStyleBackColor = True
+        '
+        'btnBuscarDni
+        '
+        Me.btnBuscarDni.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
+        Me.btnBuscarDni.Location = New System.Drawing.Point(347, 28)
+        Me.btnBuscarDni.Name = "btnBuscarDni"
+        Me.btnBuscarDni.Size = New System.Drawing.Size(39, 37)
+        Me.btnBuscarDni.TabIndex = 5
+        Me.btnBuscarDni.UseVisualStyleBackColor = True
+        '
+        'txtBuscarNombre
+        '
+        Me.txtBuscarNombre.Location = New System.Drawing.Point(199, 93)
+        Me.txtBuscarNombre.Name = "txtBuscarNombre"
+        Me.txtBuscarNombre.Size = New System.Drawing.Size(221, 20)
+        Me.txtBuscarNombre.TabIndex = 4
+        '
+        'txtBuscarDni
+        '
+        Me.txtBuscarDni.Location = New System.Drawing.Point(95, 39)
+        Me.txtBuscarDni.Name = "txtBuscarDni"
+        Me.txtBuscarDni.Size = New System.Drawing.Size(221, 20)
+        Me.txtBuscarDni.TabIndex = 3
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.Location = New System.Drawing.Point(34, 97)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(123, 16)
+        Me.Label10.TabIndex = 2
+        Me.Label10.Text = "Nombre y Apellido:"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(34, 43)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(34, 16)
+        Me.Label9.TabIndex = 1
+        Me.Label9.Text = "DNI:"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(27, 10)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(185, 24)
+        Me.Label8.TabIndex = 0
+        Me.Label8.Text = "Buscar cliente por:"
+        '
         'btnSocios
         '
         Me.btnSocios.Location = New System.Drawing.Point(544, 12)
@@ -384,14 +367,6 @@ Partial Class frmClientesAdm
         Me.btnSocios.TabIndex = 23
         Me.btnSocios.Text = "Clientes Socios"
         Me.btnSocios.UseVisualStyleBackColor = True
-        '
-        'dtpFechaNac
-        '
-        Me.dtpFechaNac.Format = System.Windows.Forms.DateTimePickerFormat.Custom
-        Me.dtpFechaNac.Location = New System.Drawing.Point(157, 158)
-        Me.dtpFechaNac.Name = "dtpFechaNac"
-        Me.dtpFechaNac.Size = New System.Drawing.Size(184, 20)
-        Me.dtpFechaNac.TabIndex = 21
         '
         'frmClientesAdm
         '
@@ -415,7 +390,7 @@ Partial Class frmClientesAdm
         Me.pnlAlta.PerformLayout()
         Me.pnlModif.ResumeLayout(False)
         Me.pnlModif.PerformLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvListarClientes, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -450,11 +425,7 @@ Partial Class frmClientesAdm
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents btnBuscarNombre As System.Windows.Forms.Button
     Friend WithEvents btnBuscarDni As System.Windows.Forms.Button
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
-    Friend WithEvents clmDni As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmMail As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmPass As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmNombre As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents dgvListarClientes As System.Windows.Forms.DataGridView
     Friend WithEvents btnSocios As System.Windows.Forms.Button
     Friend WithEvents dtpFechaNac As System.Windows.Forms.DateTimePicker
 End Class

@@ -6,6 +6,7 @@
     Dim con_string = "Data Source=.\SQLEXPRESS;Initial Catalog=biblioteca;Integrated Security=True"
 
     Public Sub guardar(ByVal data_string As String)
+        Console.WriteLine(data_string)
         Try
             cn.ConnectionString = con_string  'carga el connection string
             cn.Open() 'abro conexion 
@@ -17,8 +18,7 @@
             cmd.ExecuteNonQuery() 'ejecuto
 
         Catch ex As Exception
-            Throw ex
-
+            Console.WriteLine("PROBLEMA EN LA CAPA DATOS: " & ex.ToString)
         Finally
             cn.Close() 'cierro conexion
             cmd.Dispose() 'mato command 

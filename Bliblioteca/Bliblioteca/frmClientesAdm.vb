@@ -110,6 +110,7 @@ Public Class frmClientesAdm
             MessageBox.Show("Las contraseñas no coinciden")
         End If
 
+        'asignamos a las propiedades los valores de los textbox y del datetimepicker
         xCliente.Dni = txtDni.Text
         xCliente.Nombre = txtNombre.Text
         xCliente.Apellido = txtApellido.Text
@@ -117,14 +118,39 @@ Public Class frmClientesAdm
         xCliente.Email = txtMail.Text
         xCliente.Password = txtPass.Text
 
-        '' MessageBox.Show(xCliente.FechaDeNac.Date.Year & "-" & xCliente.FechaDeNac.Date.Month & "-" & xCliente.FechaDeNac.Date.Day)
+        'MessageBox.Show(xCliente.FechaDeNac)
 
-
+        Try
+            'llamamos al metodo en la clase Administrador de la parte logica y le enviamos el objeto ya con los propiedades asignadas
+            logica.altaUsuario(xCliente)
+            MessageBox.Show("Los datos se guardaron correctamente")
+            'despues de hacer la alta, llamamos al metodo limpiarcampos para limpiar los txt.
+            Me.limpiarCampos()
+        Catch ex As Exception
+            Debug.Print("Problema: " & ex.ToString)
+        End Try
     End Sub
+    'procedimiento que limpia los campos
+    Public Sub limpiarCampos()
+        txtDni.Clear()
+        txtNombre.Clear()
+        txtApellido.Clear()
+        txtMail.Clear()
+        txtPass.Clear()
+        txtPass2.Clear()
+    End Sub
+
 
     Private Sub btnModificar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnModificar.Click
         pnlModif.Show()
         pnlAlta.Hide()
+
+        Try
+            'llenamos el datagridview con el datatable que devuelve la funcion listar usuarios en la clase administrador
+            dgvListarClientes.DataSource = logica.listarUsuarios()
+        Catch ex As Exception
+            Throw ex
+        End Try
 
 
     End Sub
@@ -135,9 +161,18 @@ Public Class frmClientesAdm
 
     Private Sub FRMcliente_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         pnlModif.Visible = False
+
+        Try
+            'llenamos el datagridview con el datatable que devuelve la funcion listar usuarios en la clase administrador
+            dgvListarClientes.DataSource = logica.listarUsuarios()
+        Catch ex As Exception
+            Throw ex
+        End Try
+
+
     End Sub
 
-    Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+    Private Sub DataGridView1_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvListarClientes.CellContentClick
 
     End Sub
 
@@ -149,7 +184,12 @@ Public Class frmClientesAdm
     End Sub
 
     Private Sub btnBuscarDni_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBuscarDni.Click
-
+        Try
+            'llenamos el dataviewgrid pasandole el datatable que devuelve el usuario que coincida con el dni que escribimos en el txtBuscarDni
+            dgvListarClientes.DataSource = logica.buscarUsuarioDni(txtBuscarDni.Text)
+        Catch ex As Exception
+            Throw ex
+        End Try
     End Sub
 
     Private Sub btnInv_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnInv.Click

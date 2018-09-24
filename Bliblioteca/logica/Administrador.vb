@@ -1,31 +1,54 @@
 ﻿Imports Datos
 Public Class Administrador
+
     Inherits Persona
-
-    ' Alta de Usuario en la base de datos
-    Public Function altaUsuario(ByVal Dni As Integer,
-                                ByVal Nombre As String,
-                                ByVal Apellido As String,
-                                ByVal FechaDeNac As Date,
-                                ByVal Email As String,
-                                ByVal Password As String) As String
-
-        Dim conexion As New conexionSql
-        Dim xCliente As New Cliente
-        xCliente.Dni = Dni
-        xCliente.Nombre = Nombre
-        xCliente.Apellido = Apellido
-        xCliente.FechaDeNac = FechaDeNac
-        xCliente.Email = Email
-        xCliente.Password = Password
-
-        conexion.guardar("INSERT INTO usuarios VALUES (" & xCliente.Dni & "," & xCliente.Nombre & "," & xCliente.Apellido & "," & xCliente.FechaDeNac & "," & xCliente.Email & "," & xCliente.Password)
+    Dim conexion As New conexionSql
+    Dim xCliente As New Cliente
 
 
+    ' Alta de Usuario en la base de datos, recibe el objeto que llenamos en el formulario frmClientesAdm
+    Public Sub altaUsuario(ByVal xCliente As Cliente)
+        'Dim fecha As String = xCliente.FechaDeNac.ToString("yyyy-MM-dd")
 
-  
+        Try
+            'testeamos que funciones la query
+            'conexion.guardar("INSERT INTO usuarios VALUES('123456789','hola','chau','asd@asd.com','2018-05-09','asd123')")
 
-        Return MessageBox.Show("Cliente creado exitosamente")
+            'Debug.Print("INSERT INTO usuarios VALUES('" & xCliente.Dni & "','" & xCliente.Nombre & "','" & xCliente.Apellido & "','" & fecha & "','" & xCliente.Email & "','" & xCliente.Password & "')")
+
+            'llamoas al metodo de la clase conexionSql y le enviamos la query
+            conexion.guardar("INSERT INTO usuarios VALUES('" & xCliente.Dni & "','" & xCliente.Nombre & "','" & xCliente.Apellido & "','" & xCliente.Email & "','" & xCliente.FechaDeNac.ToString("yyyy-MM-dd") & "','" & xCliente.Password & "')")
+        Catch ex As Exception
+
+            Debug.Print("Problema en logica: " & ex.ToString)
+        End Try
+
+    End Sub
+    'funcion que devuelve la lista de ususarios que hay registrados
+    Public Function listarUsuarios() As DataTable
+        'definimos una variable del tipo datatable para poder cargarla con lo que devuelve la funcion consultar en la clase conexionSql
+        Dim lista As DataTable
+        Try
+            'intentamos hacer la consulta y la devolvemos
+            lista = conexion.consultar("SELECT dni, nombre, apellido, email, fecha_nacimiento FROM usuarios")
+        Catch ex As Exception
+            Throw ex
+        End Try
+        Return lista
+    End Function
+    'buscar usuario por DNI, le pasamos por parametro el dni del usuario
+    Public Function buscarUsuarioDni(ByVal dni As Integer) As DataTable
+        'definimos una variable del tipo dataTable 
+        Dim lista As DataTable
+        Try
+            'llenamos el datatable con lo que devuelve la funcion consultar de la clase conexionSql
+            lista = conexion.consultar("SELECT dni, nombre, apellido, email, fecha_nacimiento FROM usuarios WHERE dni=" & dni)
+        Catch ex As Exception
+            Throw ex
+        End Try
+
+
+        Return lista
     End Function
 
 

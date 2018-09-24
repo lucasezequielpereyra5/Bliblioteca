@@ -6,3 +6,11 @@ C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.vbp
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.dll
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.xml
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.pdb

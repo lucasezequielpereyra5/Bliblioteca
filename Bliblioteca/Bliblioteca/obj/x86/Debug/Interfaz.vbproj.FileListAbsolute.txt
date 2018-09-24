@@ -66,3 +66,28 @@ C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
 C:\Users\Administrador\Desktop\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
