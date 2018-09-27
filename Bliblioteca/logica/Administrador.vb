@@ -36,6 +36,7 @@ Public Class Administrador
         End Try
         Return lista
     End Function
+
     'buscar usuario por DNI, le pasamos por parametro el dni del usuario
     Public Function buscarUsuarioDni(ByVal dni As Integer) As DataTable
         'definimos una variable del tipo dataTable 
@@ -51,6 +52,19 @@ Public Class Administrador
         Return lista
     End Function
 
+    'buscar usuario por nombre y apellido
+    Public Function buscarUsuarioNombreApellido(ByVal nombre As String, ByVal apellido As String) As DataTable
+        'definimos una variable del tipo dataTable 
+        Dim lista As DataTable
+        Try
+            'llenamos el datatable con lo que devuelve la funcion consultar de la clase conexionSql
+            lista = conexion.consultar("SELECT dni, nombre, apellido, email, fecha_nacimiento FROM usuarios WHERE nombre='" & nombre & "' AND apellido='" & apellido & "'")
+        Catch ex As Exception
+            Throw ex
+        End Try
+
+        Return lista
+    End Function
 
     ' Baja de Usuario en la base de datos
     Public Function bajaUsuario(ByVal Dni As Integer) As String
@@ -74,6 +88,8 @@ Public Class Administrador
 
         Return MessageBox.Show("Cliente Modificado")
     End Function
+
+
 
     ' Alta de usuario en la base de datos
     Public Function altaLibro(ByVal Id As Integer,

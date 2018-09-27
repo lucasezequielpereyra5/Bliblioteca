@@ -38,3 +38,15 @@ C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\logica\bin\D
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.dll
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.pdb
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.pdb

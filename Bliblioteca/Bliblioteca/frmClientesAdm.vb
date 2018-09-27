@@ -212,4 +212,15 @@ Public Class frmClientesAdm
         frmSocios.Show()
         Me.Hide()
     End Sub
+
+    Private Sub btnBuscarNombre_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBuscarNombre.Click
+
+        Try
+            'llenamos el dataviewgrid pasandole el datatable que devuelve el usuario que coincida con el nombre y apellido
+            dgvListarClientes.DataSource = logica.buscarUsuarioNombreApellido(txtBuscarNombre.Text, txtBuscarApellido.Text)
+
+        Catch ex As Exception
+            Throw ex
+        End Try
+    End Sub
 End Class

@@ -22,6 +22,7 @@ Partial Class frmClientesAdm
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.btnDevolvucion = New System.Windows.Forms.Button()
         Me.btnInv = New System.Windows.Forms.Button()
         Me.btnAdm = New System.Windows.Forms.Button()
@@ -56,6 +57,8 @@ Partial Class frmClientesAdm
         Me.Label8 = New System.Windows.Forms.Label()
         Me.HelpProvider1 = New System.Windows.Forms.HelpProvider()
         Me.btnSocios = New System.Windows.Forms.Button()
+        Me.txtBuscarApellido = New System.Windows.Forms.TextBox()
+        Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.pnlAlta.SuspendLayout()
         Me.pnlModif.SuspendLayout()
         CType(Me.dgvListarClientes, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -276,6 +279,7 @@ Partial Class frmClientesAdm
         '
         'pnlModif
         '
+        Me.pnlModif.Controls.Add(Me.txtBuscarApellido)
         Me.pnlModif.Controls.Add(Me.dgvListarClientes)
         Me.pnlModif.Controls.Add(Me.btnBuscarNombre)
         Me.pnlModif.Controls.Add(Me.btnBuscarDni)
@@ -292,6 +296,7 @@ Partial Class frmClientesAdm
         'dgvListarClientes
         '
         Me.dgvListarClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvListarClientes.Cursor = System.Windows.Forms.Cursors.Hand
         Me.dgvListarClientes.Location = New System.Drawing.Point(20, 141)
         Me.dgvListarClientes.Name = "dgvListarClientes"
         Me.dgvListarClientes.Size = New System.Drawing.Size(575, 243)
@@ -300,7 +305,7 @@ Partial Class frmClientesAdm
         'btnBuscarNombre
         '
         Me.btnBuscarNombre.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
-        Me.btnBuscarNombre.Location = New System.Drawing.Point(426, 84)
+        Me.btnBuscarNombre.Location = New System.Drawing.Point(412, 94)
         Me.btnBuscarNombre.Name = "btnBuscarNombre"
         Me.btnBuscarNombre.Size = New System.Drawing.Size(39, 37)
         Me.btnBuscarNombre.TabIndex = 6
@@ -317,10 +322,11 @@ Partial Class frmClientesAdm
         '
         'txtBuscarNombre
         '
-        Me.txtBuscarNombre.Location = New System.Drawing.Point(199, 93)
+        Me.txtBuscarNombre.Location = New System.Drawing.Point(165, 84)
         Me.txtBuscarNombre.Name = "txtBuscarNombre"
         Me.txtBuscarNombre.Size = New System.Drawing.Size(221, 20)
         Me.txtBuscarNombre.TabIndex = 4
+        Me.ToolTip1.SetToolTip(Me.txtBuscarNombre, "Ingrese nombre")
         '
         'txtBuscarDni
         '
@@ -333,7 +339,7 @@ Partial Class frmClientesAdm
         '
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(34, 97)
+        Me.Label10.Location = New System.Drawing.Point(34, 94)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(123, 16)
         Me.Label10.TabIndex = 2
@@ -367,6 +373,14 @@ Partial Class frmClientesAdm
         Me.btnSocios.TabIndex = 23
         Me.btnSocios.Text = "Clientes Socios"
         Me.btnSocios.UseVisualStyleBackColor = True
+        '
+        'txtBuscarApellido
+        '
+        Me.txtBuscarApellido.Location = New System.Drawing.Point(165, 115)
+        Me.txtBuscarApellido.Name = "txtBuscarApellido"
+        Me.txtBuscarApellido.Size = New System.Drawing.Size(221, 20)
+        Me.txtBuscarApellido.TabIndex = 8
+        Me.ToolTip1.SetToolTip(Me.txtBuscarApellido, "Ingrese apellido")
         '
         'frmClientesAdm
         '
@@ -428,4 +442,6 @@ Partial Class frmClientesAdm
     Friend WithEvents dgvListarClientes As System.Windows.Forms.DataGridView
     Friend WithEvents btnSocios As System.Windows.Forms.Button
     Friend WithEvents dtpFechaNac As System.Windows.Forms.DateTimePicker
+    Friend WithEvents txtBuscarApellido As System.Windows.Forms.TextBox
+    Friend WithEvents ToolTip1 As System.Windows.Forms.ToolTip
 End Class
