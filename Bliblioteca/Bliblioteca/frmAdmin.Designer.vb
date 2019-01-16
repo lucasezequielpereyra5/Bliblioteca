@@ -27,33 +27,27 @@ Partial Class FRMadmin
         Me.btnInicio = New System.Windows.Forms.Button()
         Me.btnCliente = New System.Windows.Forms.Button()
         Me.pnlAdm = New System.Windows.Forms.Panel()
-        Me.pnlBusquedaPeliculas = New System.Windows.Forms.Panel()
-        Me.DataGridView2 = New System.Windows.Forms.DataGridView()
-        Me.clmClientes = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmFechaAlquilerP = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmFechaVencimientoP = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.txtNombrePelicula = New System.Windows.Forms.TextBox()
-        Me.Label5 = New System.Windows.Forms.Label()
+        Me.cmbListaLibros = New System.Windows.Forms.ComboBox()
         Me.pnlBusquedaCliente = New System.Windows.Forms.Panel()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.clmPeliculasAlquiladas = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmFechaAlquiler = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clmFechaDeVencimiento = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.txtNombreCliente = New System.Windows.Forms.TextBox()
+        Me.pnlBusquedaPeliculas = New System.Windows.Forms.Panel()
+        Me.lblNombreDeLibro = New System.Windows.Forms.Label()
+        Me.dgvLibrosAlquiladosXUsuarios = New System.Windows.Forms.DataGridView()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.lblNombreDeCliente = New System.Windows.Forms.Label()
+        Me.dgvAlquilerXCliente1 = New System.Windows.Forms.DataGridView()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.btnBuscarPelicula = New System.Windows.Forms.Button()
         Me.btnBuscarCliente = New System.Windows.Forms.Button()
-        Me.txtBuscarPelicula = New System.Windows.Forms.TextBox()
         Me.txtBuscarCliente = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnSocios = New System.Windows.Forms.Button()
         Me.pnlAdm.SuspendLayout()
-        Me.pnlBusquedaPeliculas.SuspendLayout()
-        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.pnlBusquedaCliente.SuspendLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.pnlBusquedaPeliculas.SuspendLayout()
+        CType(Me.dgvLibrosAlquiladosXUsuarios, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvAlquilerXCliente1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnDevolvucion
@@ -95,10 +89,10 @@ Partial Class FRMadmin
         'pnlAdm
         '
         Me.pnlAdm.Controls.Add(Me.pnlBusquedaPeliculas)
+        Me.pnlAdm.Controls.Add(Me.cmbListaLibros)
         Me.pnlAdm.Controls.Add(Me.pnlBusquedaCliente)
         Me.pnlAdm.Controls.Add(Me.btnBuscarPelicula)
         Me.pnlAdm.Controls.Add(Me.btnBuscarCliente)
-        Me.pnlAdm.Controls.Add(Me.txtBuscarPelicula)
         Me.pnlAdm.Controls.Add(Me.txtBuscarCliente)
         Me.pnlAdm.Controls.Add(Me.Label3)
         Me.pnlAdm.Controls.Add(Me.Label2)
@@ -108,64 +102,18 @@ Partial Class FRMadmin
         Me.pnlAdm.Size = New System.Drawing.Size(659, 450)
         Me.pnlAdm.TabIndex = 9
         '
-        'pnlBusquedaPeliculas
+        'cmbListaLibros
         '
-        Me.pnlBusquedaPeliculas.Controls.Add(Me.DataGridView2)
-        Me.pnlBusquedaPeliculas.Controls.Add(Me.txtNombrePelicula)
-        Me.pnlBusquedaPeliculas.Controls.Add(Me.Label5)
-        Me.pnlBusquedaPeliculas.Location = New System.Drawing.Point(0, 142)
-        Me.pnlBusquedaPeliculas.Name = "pnlBusquedaPeliculas"
-        Me.pnlBusquedaPeliculas.Size = New System.Drawing.Size(665, 308)
-        Me.pnlBusquedaPeliculas.TabIndex = 3
-        Me.pnlBusquedaPeliculas.Visible = False
-        '
-        'DataGridView2
-        '
-        Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView2.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clmClientes, Me.clmFechaAlquilerP, Me.clmFechaVencimientoP})
-        Me.DataGridView2.Location = New System.Drawing.Point(74, 63)
-        Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.Size = New System.Drawing.Size(506, 219)
-        Me.DataGridView2.TabIndex = 2
-        '
-        'clmClientes
-        '
-        Me.clmClientes.HeaderText = "Clientes que la Alquilaron"
-        Me.clmClientes.Name = "clmClientes"
-        Me.clmClientes.ReadOnly = True
-        '
-        'clmFechaAlquilerP
-        '
-        Me.clmFechaAlquilerP.HeaderText = "Fecha de Alquiler"
-        Me.clmFechaAlquilerP.Name = "clmFechaAlquilerP"
-        Me.clmFechaAlquilerP.ReadOnly = True
-        '
-        'clmFechaVencimientoP
-        '
-        Me.clmFechaVencimientoP.HeaderText = "Fecha de Vencimiento"
-        Me.clmFechaVencimientoP.Name = "clmFechaVencimientoP"
-        '
-        'txtNombrePelicula
-        '
-        Me.txtNombrePelicula.Location = New System.Drawing.Point(156, 8)
-        Me.txtNombrePelicula.Name = "txtNombrePelicula"
-        Me.txtNombrePelicula.Size = New System.Drawing.Size(222, 20)
-        Me.txtNombrePelicula.TabIndex = 1
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(4, 8)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(112, 16)
-        Me.Label5.TabIndex = 0
-        Me.Label5.Text = "Nombre de Libro:"
+        Me.cmbListaLibros.FormattingEnabled = True
+        Me.cmbListaLibros.Location = New System.Drawing.Point(106, 96)
+        Me.cmbListaLibros.Name = "cmbListaLibros"
+        Me.cmbListaLibros.Size = New System.Drawing.Size(215, 21)
+        Me.cmbListaLibros.TabIndex = 4
         '
         'pnlBusquedaCliente
         '
-        Me.pnlBusquedaCliente.Controls.Add(Me.DataGridView1)
-        Me.pnlBusquedaCliente.Controls.Add(Me.txtNombreCliente)
+        Me.pnlBusquedaCliente.Controls.Add(Me.lblNombreDeCliente)
+        Me.pnlBusquedaCliente.Controls.Add(Me.dgvAlquilerXCliente1)
         Me.pnlBusquedaCliente.Controls.Add(Me.Label4)
         Me.pnlBusquedaCliente.Location = New System.Drawing.Point(3, 142)
         Me.pnlBusquedaCliente.Name = "pnlBusquedaCliente"
@@ -173,39 +121,62 @@ Partial Class FRMadmin
         Me.pnlBusquedaCliente.TabIndex = 7
         Me.pnlBusquedaCliente.Visible = False
         '
-        'DataGridView1
+        'pnlBusquedaPeliculas
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clmPeliculasAlquiladas, Me.clmFechaAlquiler, Me.clmFechaDeVencimiento})
-        Me.DataGridView1.Location = New System.Drawing.Point(74, 45)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(345, 257)
-        Me.DataGridView1.TabIndex = 2
+        Me.pnlBusquedaPeliculas.Controls.Add(Me.lblNombreDeLibro)
+        Me.pnlBusquedaPeliculas.Controls.Add(Me.dgvLibrosAlquiladosXUsuarios)
+        Me.pnlBusquedaPeliculas.Controls.Add(Me.Label5)
+        Me.pnlBusquedaPeliculas.Location = New System.Drawing.Point(7, 142)
+        Me.pnlBusquedaPeliculas.Name = "pnlBusquedaPeliculas"
+        Me.pnlBusquedaPeliculas.Size = New System.Drawing.Size(519, 308)
+        Me.pnlBusquedaPeliculas.TabIndex = 3
+        Me.pnlBusquedaPeliculas.Visible = False
         '
-        'clmPeliculasAlquiladas
+        'lblNombreDeLibro
         '
-        Me.clmPeliculasAlquiladas.HeaderText = "Peliculas Alquiladas"
-        Me.clmPeliculasAlquiladas.Name = "clmPeliculasAlquiladas"
-        Me.clmPeliculasAlquiladas.ReadOnly = True
+        Me.lblNombreDeLibro.AutoSize = True
+        Me.lblNombreDeLibro.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblNombreDeLibro.Location = New System.Drawing.Point(121, 11)
+        Me.lblNombreDeLibro.Name = "lblNombreDeLibro"
+        Me.lblNombreDeLibro.Size = New System.Drawing.Size(99, 13)
+        Me.lblNombreDeLibro.TabIndex = 3
+        Me.lblNombreDeLibro.Text = "Nombre del libro"
         '
-        'clmFechaAlquiler
+        'dgvLibrosAlquiladosXUsuarios
         '
-        Me.clmFechaAlquiler.HeaderText = "Fecha de Alquiler"
-        Me.clmFechaAlquiler.Name = "clmFechaAlquiler"
-        Me.clmFechaAlquiler.ReadOnly = True
+        Me.dgvLibrosAlquiladosXUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvLibrosAlquiladosXUsuarios.Location = New System.Drawing.Point(74, 63)
+        Me.dgvLibrosAlquiladosXUsuarios.Name = "dgvLibrosAlquiladosXUsuarios"
+        Me.dgvLibrosAlquiladosXUsuarios.Size = New System.Drawing.Size(345, 219)
+        Me.dgvLibrosAlquiladosXUsuarios.TabIndex = 2
         '
-        'clmFechaDeVencimiento
+        'Label5
         '
-        Me.clmFechaDeVencimiento.HeaderText = "Fecha de Vencimiento"
-        Me.clmFechaDeVencimiento.Name = "clmFechaDeVencimiento"
-        Me.clmFechaDeVencimiento.ReadOnly = True
+        Me.Label5.AutoSize = True
+        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.Location = New System.Drawing.Point(3, 9)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(112, 16)
+        Me.Label5.TabIndex = 0
+        Me.Label5.Text = "Nombre de Libro:"
         '
-        'txtNombreCliente
+        'lblNombreDeCliente
         '
-        Me.txtNombreCliente.Location = New System.Drawing.Point(127, 4)
-        Me.txtNombreCliente.Name = "txtNombreCliente"
-        Me.txtNombreCliente.Size = New System.Drawing.Size(205, 20)
-        Me.txtNombreCliente.TabIndex = 1
+        Me.lblNombreDeCliente.AutoSize = True
+        Me.lblNombreDeCliente.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblNombreDeCliente.Location = New System.Drawing.Point(127, 6)
+        Me.lblNombreDeCliente.Name = "lblNombreDeCliente"
+        Me.lblNombreDeCliente.Size = New System.Drawing.Size(111, 13)
+        Me.lblNombreDeCliente.TabIndex = 3
+        Me.lblNombreDeCliente.Text = "Nombre de Cliente"
+        '
+        'dgvAlquilerXCliente1
+        '
+        Me.dgvAlquilerXCliente1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvAlquilerXCliente1.Location = New System.Drawing.Point(74, 45)
+        Me.dgvAlquilerXCliente1.Name = "dgvAlquilerXCliente1"
+        Me.dgvAlquilerXCliente1.Size = New System.Drawing.Size(345, 257)
+        Me.dgvAlquilerXCliente1.TabIndex = 2
         '
         'Label4
         '
@@ -235,16 +206,9 @@ Partial Class FRMadmin
         Me.btnBuscarCliente.TabIndex = 5
         Me.btnBuscarCliente.UseVisualStyleBackColor = True
         '
-        'txtBuscarPelicula
-        '
-        Me.txtBuscarPelicula.Location = New System.Drawing.Point(89, 93)
-        Me.txtBuscarPelicula.Name = "txtBuscarPelicula"
-        Me.txtBuscarPelicula.Size = New System.Drawing.Size(215, 20)
-        Me.txtBuscarPelicula.TabIndex = 4
-        '
         'txtBuscarCliente
         '
-        Me.txtBuscarCliente.Location = New System.Drawing.Point(89, 38)
+        Me.txtBuscarCliente.Location = New System.Drawing.Point(106, 41)
         Me.txtBuscarCliente.Name = "txtBuscarCliente"
         Me.txtBuscarCliente.Size = New System.Drawing.Size(215, 20)
         Me.txtBuscarCliente.TabIndex = 3
@@ -255,9 +219,9 @@ Partial Class FRMadmin
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(7, 97)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(48, 16)
+        Me.Label3.Size = New System.Drawing.Size(93, 16)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Libros:"
+        Me.Label3.Text = "Nombre Libro:"
         '
         'Label2
         '
@@ -265,9 +229,9 @@ Partial Class FRMadmin
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(7, 42)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(59, 16)
+        Me.Label2.Size = New System.Drawing.Size(75, 16)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Clientes:"
+        Me.Label2.Text = "Dni Cliente:"
         '
         'Label1
         '
@@ -292,6 +256,7 @@ Partial Class FRMadmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ButtonFace
         Me.ClientSize = New System.Drawing.Size(689, 519)
         Me.Controls.Add(Me.btnSocios)
         Me.Controls.Add(Me.pnlAdm)
@@ -305,12 +270,12 @@ Partial Class FRMadmin
         Me.Text = "FRMadmin"
         Me.pnlAdm.ResumeLayout(False)
         Me.pnlAdm.PerformLayout()
-        Me.pnlBusquedaPeliculas.ResumeLayout(False)
-        Me.pnlBusquedaPeliculas.PerformLayout()
-        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pnlBusquedaCliente.ResumeLayout(False)
         Me.pnlBusquedaCliente.PerformLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.pnlBusquedaPeliculas.ResumeLayout(False)
+        Me.pnlBusquedaPeliculas.PerformLayout()
+        CType(Me.dgvLibrosAlquiladosXUsuarios, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvAlquilerXCliente1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -323,22 +288,16 @@ Partial Class FRMadmin
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents btnBuscarPelicula As System.Windows.Forms.Button
     Friend WithEvents btnBuscarCliente As System.Windows.Forms.Button
-    Friend WithEvents txtBuscarPelicula As System.Windows.Forms.TextBox
     Friend WithEvents txtBuscarCliente As System.Windows.Forms.TextBox
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents pnlBusquedaCliente As System.Windows.Forms.Panel
-    Friend WithEvents txtNombreCliente As System.Windows.Forms.TextBox
     Friend WithEvents Label4 As System.Windows.Forms.Label
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
-    Friend WithEvents clmPeliculasAlquiladas As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmFechaAlquiler As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmFechaDeVencimiento As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents pnlBusquedaPeliculas As System.Windows.Forms.Panel
-    Friend WithEvents Label5 As System.Windows.Forms.Label
-    Friend WithEvents DataGridView2 As System.Windows.Forms.DataGridView
-    Friend WithEvents clmClientes As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmFechaAlquilerP As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clmFechaVencimientoP As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents txtNombrePelicula As System.Windows.Forms.TextBox
+    Friend WithEvents dgvAlquilerXCliente1 As System.Windows.Forms.DataGridView
     Friend WithEvents btnSocios As System.Windows.Forms.Button
+    Friend WithEvents pnlBusquedaPeliculas As System.Windows.Forms.Panel
+    Friend WithEvents dgvLibrosAlquiladosXUsuarios As System.Windows.Forms.DataGridView
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents lblNombreDeCliente As System.Windows.Forms.Label
+    Friend WithEvents lblNombreDeLibro As System.Windows.Forms.Label
+    Friend WithEvents cmbListaLibros As System.Windows.Forms.ComboBox
 End Class

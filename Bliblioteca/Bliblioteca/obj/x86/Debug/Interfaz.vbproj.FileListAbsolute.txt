@@ -116,3 +116,329 @@ C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\Bliblioteca\ob
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.exe
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Bliblioteca.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\bin\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMadmin.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmAjustes.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmBuscadorLibros.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmCliente.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmClientesAdm.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmDevolucion.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinicio.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.FRMinventario.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmMesa.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarClienteAdmin.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmModificarLibrosAdmin.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.frmSocios.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\frmPrincipal.Resources.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Kiki\Desktop\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.exe
+C:\Users\Kiki\Desktop\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.xml
+C:\Users\Kiki\Desktop\TrabajoActualizado16112018\Bliblioteca\Bliblioteca\obj\x86\Debug\Bliblioteca.pdb

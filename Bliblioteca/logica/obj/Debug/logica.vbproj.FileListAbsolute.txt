@@ -50,3 +50,135 @@ C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Deb
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.dll
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.xml
 C:\Users\lauta\Documents\Visual studio TP\Bliblioteca\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Desktop\TrabajoActualizado\TrabajoActualizado\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\lauta\Downloads\turnosPC\TrabajoActualizado\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\bin\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.Resources.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado16112018\Bliblioteca\logica\obj\Debug\logica.pdb

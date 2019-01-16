@@ -28,14 +28,7 @@ Partial Class FRMinventario
         Me.btnCliente = New System.Windows.Forms.Button()
         Me.pnlInventario = New System.Windows.Forms.Panel()
         Me.pnlModificaLibro = New System.Windows.Forms.Panel()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.clnId = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnDescrip = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnAutor = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnEdit = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnGenero = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnPrecio = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clnCantidad = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.dgvListaLibro = New System.Windows.Forms.DataGridView()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.pnlAltaArticulo = New System.Windows.Forms.Panel()
         Me.btnAgregar = New System.Windows.Forms.Button()
@@ -58,9 +51,10 @@ Partial Class FRMinventario
         Me.btnModifStock = New System.Windows.Forms.Button()
         Me.btnAltaStock = New System.Windows.Forms.Button()
         Me.btnSocios = New System.Windows.Forms.Button()
+        Me.btnModificar = New System.Windows.Forms.Button()
         Me.pnlInventario.SuspendLayout()
         Me.pnlModificaLibro.SuspendLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvListaLibro, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.pnlAltaArticulo.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -113,60 +107,21 @@ Partial Class FRMinventario
         '
         'pnlModificaLibro
         '
-        Me.pnlModificaLibro.Controls.Add(Me.DataGridView1)
+        Me.pnlModificaLibro.Controls.Add(Me.btnModificar)
+        Me.pnlModificaLibro.Controls.Add(Me.dgvListaLibro)
         Me.pnlModificaLibro.Controls.Add(Me.Label10)
-        Me.pnlModificaLibro.Location = New System.Drawing.Point(7, 54)
+        Me.pnlModificaLibro.Location = New System.Drawing.Point(4, 54)
         Me.pnlModificaLibro.Name = "pnlModificaLibro"
         Me.pnlModificaLibro.Size = New System.Drawing.Size(652, 413)
         Me.pnlModificaLibro.TabIndex = 16
         '
-        'DataGridView1
+        'dgvListaLibro
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clnId, Me.clnDescrip, Me.clnAutor, Me.clnEdit, Me.clnGenero, Me.clnPrecio, Me.clnCantidad})
-        Me.DataGridView1.Location = New System.Drawing.Point(-4, 41)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(653, 363)
-        Me.DataGridView1.TabIndex = 1
-        '
-        'clnId
-        '
-        Me.clnId.HeaderText = "ID"
-        Me.clnId.Name = "clnId"
-        Me.clnId.ReadOnly = True
-        Me.clnId.Width = 25
-        '
-        'clnDescrip
-        '
-        Me.clnDescrip.HeaderText = "Descripcion"
-        Me.clnDescrip.Name = "clnDescrip"
-        '
-        'clnAutor
-        '
-        Me.clnAutor.HeaderText = "Autor"
-        Me.clnAutor.Name = "clnAutor"
-        '
-        'clnEdit
-        '
-        Me.clnEdit.HeaderText = "Editorial"
-        Me.clnEdit.Name = "clnEdit"
-        '
-        'clnGenero
-        '
-        Me.clnGenero.HeaderText = "Genero"
-        Me.clnGenero.Name = "clnGenero"
-        Me.clnGenero.Width = 70
-        '
-        'clnPrecio
-        '
-        Me.clnPrecio.HeaderText = "Precio"
-        Me.clnPrecio.Name = "clnPrecio"
-        Me.clnPrecio.Width = 50
-        '
-        'clnCantidad
-        '
-        Me.clnCantidad.HeaderText = "Cantidad"
-        Me.clnCantidad.Name = "clnCantidad"
+        Me.dgvListaLibro.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvListaLibro.Location = New System.Drawing.Point(-4, 41)
+        Me.dgvListaLibro.Name = "dgvListaLibro"
+        Me.dgvListaLibro.Size = New System.Drawing.Size(653, 309)
+        Me.dgvListaLibro.TabIndex = 1
         '
         'Label10
         '
@@ -372,6 +327,15 @@ Partial Class FRMinventario
         Me.btnSocios.Text = "Clientes Socios"
         Me.btnSocios.UseVisualStyleBackColor = True
         '
+        'btnModificar
+        '
+        Me.btnModificar.Location = New System.Drawing.Point(0, 356)
+        Me.btnModificar.Name = "btnModificar"
+        Me.btnModificar.Size = New System.Drawing.Size(649, 54)
+        Me.btnModificar.TabIndex = 2
+        Me.btnModificar.Text = "Modificar"
+        Me.btnModificar.UseVisualStyleBackColor = True
+        '
         'FRMinventario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -391,7 +355,7 @@ Partial Class FRMinventario
         Me.pnlInventario.ResumeLayout(False)
         Me.pnlModificaLibro.ResumeLayout(False)
         Me.pnlModificaLibro.PerformLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvListaLibro, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pnlAltaArticulo.ResumeLayout(False)
         Me.pnlAltaArticulo.PerformLayout()
         Me.ResumeLayout(False)
@@ -414,7 +378,7 @@ Partial Class FRMinventario
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents pnlModificaLibro As System.Windows.Forms.Panel
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents dgvListaLibro As System.Windows.Forms.DataGridView
     Friend WithEvents Label10 As System.Windows.Forms.Label
     Friend WithEvents btnAgregar As System.Windows.Forms.Button
     Friend WithEvents txtCantidad As System.Windows.Forms.TextBox
@@ -425,12 +389,6 @@ Partial Class FRMinventario
     Friend WithEvents txtDescrip As System.Windows.Forms.TextBox
     Friend WithEvents txtNombre As System.Windows.Forms.TextBox
     Friend WithEvents Label9 As System.Windows.Forms.Label
-    Friend WithEvents clnId As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnDescrip As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnAutor As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnEdit As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnGenero As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnPrecio As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clnCantidad As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents btnSocios As System.Windows.Forms.Button
+    Friend WithEvents btnModificar As System.Windows.Forms.Button
 End Class

@@ -121,6 +121,24 @@
     <Compile Include="frmInventario.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmMesa.Designer.vb">
+      <DependentUpon>frmMesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarClienteAdmin.Designer.vb">
+      <DependentUpon>frmModificarClienteAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarClienteAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarLibrosAdmin.Designer.vb">
+      <DependentUpon>frmModificarLibrosAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarLibrosAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -134,6 +152,7 @@
     <Compile Include="frmSocios.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="moverDatos.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -174,6 +193,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FRMinventario.resx">
       <DependentUpon>frmInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMesa.resx">
+      <DependentUpon>frmMesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarClienteAdmin.resx">
+      <DependentUpon>frmModificarClienteAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarLibrosAdmin.resx">
+      <DependentUpon>frmModificarLibrosAdmin.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.vb</DependentUpon>

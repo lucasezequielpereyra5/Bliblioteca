@@ -14,3 +14,59 @@ C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\De
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.dll
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.xml
 C:\Users\lauta\Documents\Visual studio TPç\Bliblioteca\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Bliblioteca-master\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca_Lauti&Lucas\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\Administrador\Desktop\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Biblioteca07112018\TrabajoActualizado-20181107T152519Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado-20181111T192038Z-001\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\iamlu\Desktop\Programacion 2\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\bin\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.xml
+C:\Users\lauta\Downloads\TrabajoActualizado\TrabajoActualizado\Bliblioteca\Datos\obj\Debug\Datos.pdb

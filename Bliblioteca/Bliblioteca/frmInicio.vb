@@ -37,18 +37,13 @@
         Dim Msg As MsgBoxResult
         Msg = MsgBox("¿Desea volver a inicio?", vbYesNo, "Salir del Modulo")
         If Msg = MsgBoxResult.Yes Then
-            Dim form As New frmPrincipal
-            frmPrincipal.Show()
-            Me.Hide()
+            Application.Restart()
         Else
             Exit Sub
         End If
     End Sub
 
     Private Sub btnSocios_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSocios.Click
-        Dim form As New frmSocios
-
-        frmSocios.Show()
-        Me.Hide()
+       MessageBox.Show("Utilidad aún no disponible")
     End Sub
 End Class

@@ -29,12 +29,13 @@ Partial Class frmDevolucion
         Me.Label1 = New System.Windows.Forms.Label()
         Me.ShapeContainer1 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer()
         Me.LineShape1 = New Microsoft.VisualBasic.PowerPacks.LineShape()
-        Me.txtCliente = New System.Windows.Forms.TextBox()
+        Me.txtDni = New System.Windows.Forms.TextBox()
         Me.btnBuscar = New System.Windows.Forms.Button()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.dgvListaDevolucion = New System.Windows.Forms.DataGridView()
         Me.BtnDevolverLibro = New System.Windows.Forms.Button()
         Me.btnSocios = New System.Windows.Forms.Button()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.btnListar = New System.Windows.Forms.Button()
+        CType(Me.dgvListaDevolucion, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnInicio
@@ -101,12 +102,12 @@ Partial Class frmDevolucion
         Me.LineShape1.Y1 = 60
         Me.LineShape1.Y2 = 56
         '
-        'txtCliente
+        'txtDni
         '
-        Me.txtCliente.Location = New System.Drawing.Point(214, 83)
-        Me.txtCliente.Name = "txtCliente"
-        Me.txtCliente.Size = New System.Drawing.Size(209, 20)
-        Me.txtCliente.TabIndex = 10
+        Me.txtDni.Location = New System.Drawing.Point(214, 83)
+        Me.txtDni.Name = "txtDni"
+        Me.txtDni.Size = New System.Drawing.Size(209, 20)
+        Me.txtDni.TabIndex = 10
         '
         'btnBuscar
         '
@@ -117,13 +118,17 @@ Partial Class frmDevolucion
         Me.btnBuscar.TabIndex = 12
         Me.btnBuscar.UseVisualStyleBackColor = True
         '
-        'DataGridView1
+        'dgvListaDevolucion
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 118)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(665, 320)
-        Me.DataGridView1.TabIndex = 13
+        Me.dgvListaDevolucion.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvListaDevolucion.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.dgvListaDevolucion.Location = New System.Drawing.Point(12, 118)
+        Me.dgvListaDevolucion.MultiSelect = False
+        Me.dgvListaDevolucion.Name = "dgvListaDevolucion"
+        Me.dgvListaDevolucion.ReadOnly = True
+        Me.dgvListaDevolucion.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dgvListaDevolucion.Size = New System.Drawing.Size(665, 320)
+        Me.dgvListaDevolucion.TabIndex = 13
         '
         'BtnDevolverLibro
         '
@@ -131,7 +136,7 @@ Partial Class frmDevolucion
         Me.BtnDevolverLibro.Name = "BtnDevolverLibro"
         Me.BtnDevolverLibro.Size = New System.Drawing.Size(665, 40)
         Me.BtnDevolverLibro.TabIndex = 14
-        Me.BtnDevolverLibro.Text = "Ver Libros"
+        Me.BtnDevolverLibro.Text = "Devolver libro"
         Me.BtnDevolverLibro.UseVisualStyleBackColor = True
         '
         'btnSocios
@@ -143,16 +148,26 @@ Partial Class frmDevolucion
         Me.btnSocios.Text = "Clientes Socios"
         Me.btnSocios.UseVisualStyleBackColor = True
         '
+        'btnListar
+        '
+        Me.btnListar.Location = New System.Drawing.Point(500, 73)
+        Me.btnListar.Name = "btnListar"
+        Me.btnListar.Size = New System.Drawing.Size(95, 39)
+        Me.btnListar.TabIndex = 16
+        Me.btnListar.Text = "Listar alquileres"
+        Me.btnListar.UseVisualStyleBackColor = True
+        '
         'frmDevolucion
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(689, 519)
+        Me.Controls.Add(Me.btnListar)
         Me.Controls.Add(Me.btnSocios)
         Me.Controls.Add(Me.BtnDevolverLibro)
-        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.dgvListaDevolucion)
         Me.Controls.Add(Me.btnBuscar)
-        Me.Controls.Add(Me.txtCliente)
+        Me.Controls.Add(Me.txtDni)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnInicio)
         Me.Controls.Add(Me.btnInv)
@@ -162,7 +177,7 @@ Partial Class frmDevolucion
         Me.Name = "frmDevolucion"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "frmDevolucion"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvListaDevolucion, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -174,9 +189,10 @@ Partial Class frmDevolucion
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents ShapeContainer1 As Microsoft.VisualBasic.PowerPacks.ShapeContainer
     Friend WithEvents LineShape1 As Microsoft.VisualBasic.PowerPacks.LineShape
-    Friend WithEvents txtCliente As System.Windows.Forms.TextBox
+    Friend WithEvents txtDni As System.Windows.Forms.TextBox
     Friend WithEvents btnBuscar As System.Windows.Forms.Button
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents dgvListaDevolucion As System.Windows.Forms.DataGridView
     Friend WithEvents BtnDevolverLibro As System.Windows.Forms.Button
     Friend WithEvents btnSocios As System.Windows.Forms.Button
+    Friend WithEvents btnListar As System.Windows.Forms.Button
 End Class

@@ -1,5 +1,7 @@
-﻿Public Class Cliente
+﻿Imports Datos
+Public Class Cliente
     Inherits Persona
+    Dim conexion As New conexionSql
 
     Private Property MessageBox As Object
 
@@ -9,6 +11,9 @@
 
         Return MessageBox.Show("Libro: " & xLibro.Nombre & " Precio: " & xLibro.Precio)
     End Function
+    Public Sub modificarPass(ByVal dni As Integer, ByVal password As String)
 
+        conexion.guardar("UPDATE usuarios SET password = '" & Me.Encriptar(password) & "' WHERE dni='" & dni & "'")
+    End Sub
 
 End Class

@@ -28,7 +28,7 @@ Partial Class frmAjustes
         Me.LblEdad = New System.Windows.Forms.Label()
         Me.LblEmail = New System.Windows.Forms.Label()
         Me.LblCont = New System.Windows.Forms.Label()
-        Me.txtContraseña = New System.Windows.Forms.TextBox()
+        Me.txtPw = New System.Windows.Forms.TextBox()
         Me.lblContraseñaNueva = New System.Windows.Forms.Label()
         Me.lblRepContraseña = New System.Windows.Forms.Label()
         Me.txtContraseñaNueva = New System.Windows.Forms.TextBox()
@@ -37,8 +37,8 @@ Partial Class frmAjustes
         Me.btnCerrar = New System.Windows.Forms.Button()
         Me.LBLnom = New System.Windows.Forms.Label()
         Me.LBLape = New System.Windows.Forms.Label()
-        Me.lblEdad2 = New System.Windows.Forms.Label()
-        Me.txtMail = New System.Windows.Forms.TextBox()
+        Me.lblFechaDeNac = New System.Windows.Forms.Label()
+        Me.lblEmail2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'LblNombre
@@ -67,9 +67,9 @@ Partial Class frmAjustes
         Me.LblEdad.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LblEdad.Location = New System.Drawing.Point(24, 184)
         Me.LblEdad.Name = "LblEdad"
-        Me.LblEdad.Size = New System.Drawing.Size(42, 16)
+        Me.LblEdad.Size = New System.Drawing.Size(135, 16)
         Me.LblEdad.TabIndex = 5
-        Me.LblEdad.Text = "Edad:"
+        Me.LblEdad.Text = "Fecha de Nacimiento:"
         '
         'LblEmail
         '
@@ -91,12 +91,13 @@ Partial Class frmAjustes
         Me.LblCont.TabIndex = 7
         Me.LblCont.Text = "Contraseña:"
         '
-        'txtContraseña
+        'txtPw
         '
-        Me.txtContraseña.Location = New System.Drawing.Point(173, 89)
-        Me.txtContraseña.Name = "txtContraseña"
-        Me.txtContraseña.Size = New System.Drawing.Size(137, 20)
-        Me.txtContraseña.TabIndex = 8
+        Me.txtPw.Location = New System.Drawing.Point(173, 89)
+        Me.txtPw.Name = "txtPw"
+        Me.txtPw.Size = New System.Drawing.Size(137, 20)
+        Me.txtPw.TabIndex = 8
+        Me.txtPw.UseSystemPasswordChar = True
         '
         'lblContraseñaNueva
         '
@@ -170,29 +171,31 @@ Partial Class frmAjustes
         Me.LBLape.TabIndex = 18
         Me.LBLape.Text = "apellido"
         '
-        'lblEdad2
+        'lblFechaDeNac
         '
-        Me.lblEdad2.AutoSize = True
-        Me.lblEdad2.Location = New System.Drawing.Point(171, 186)
-        Me.lblEdad2.Name = "lblEdad2"
-        Me.lblEdad2.Size = New System.Drawing.Size(32, 13)
-        Me.lblEdad2.TabIndex = 19
-        Me.lblEdad2.Text = "Edad"
+        Me.lblFechaDeNac.AutoSize = True
+        Me.lblFechaDeNac.Location = New System.Drawing.Point(171, 186)
+        Me.lblFechaDeNac.Name = "lblFechaDeNac"
+        Me.lblFechaDeNac.Size = New System.Drawing.Size(69, 13)
+        Me.lblFechaDeNac.TabIndex = 19
+        Me.lblFechaDeNac.Text = "FechadeNac"
         '
-        'txtMail
+        'lblEmail2
         '
-        Me.txtMail.Location = New System.Drawing.Point(173, 218)
-        Me.txtMail.Name = "txtMail"
-        Me.txtMail.Size = New System.Drawing.Size(137, 20)
-        Me.txtMail.TabIndex = 20
+        Me.lblEmail2.AutoSize = True
+        Me.lblEmail2.Location = New System.Drawing.Point(170, 221)
+        Me.lblEmail2.Name = "lblEmail2"
+        Me.lblEmail2.Size = New System.Drawing.Size(39, 13)
+        Me.lblEmail2.TabIndex = 20
+        Me.lblEmail2.Text = "Label2"
         '
         'frmAjustes
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(363, 339)
-        Me.Controls.Add(Me.txtMail)
-        Me.Controls.Add(Me.lblEdad2)
+        Me.Controls.Add(Me.lblEmail2)
+        Me.Controls.Add(Me.lblFechaDeNac)
         Me.Controls.Add(Me.LBLape)
         Me.Controls.Add(Me.LBLnom)
         Me.Controls.Add(Me.btnCerrar)
@@ -201,7 +204,7 @@ Partial Class frmAjustes
         Me.Controls.Add(Me.txtContraseñaNueva)
         Me.Controls.Add(Me.lblRepContraseña)
         Me.Controls.Add(Me.lblContraseñaNueva)
-        Me.Controls.Add(Me.txtContraseña)
+        Me.Controls.Add(Me.txtPw)
         Me.Controls.Add(Me.LblCont)
         Me.Controls.Add(Me.LblEmail)
         Me.Controls.Add(Me.LblEdad)
@@ -220,7 +223,7 @@ Partial Class frmAjustes
     Friend WithEvents LblEdad As System.Windows.Forms.Label
     Friend WithEvents LblEmail As System.Windows.Forms.Label
     Friend WithEvents LblCont As System.Windows.Forms.Label
-    Friend WithEvents txtContraseña As System.Windows.Forms.TextBox
+    Friend WithEvents txtPw As System.Windows.Forms.TextBox
     Friend WithEvents lblContraseñaNueva As System.Windows.Forms.Label
     Friend WithEvents lblRepContraseña As System.Windows.Forms.Label
     Friend WithEvents txtContraseñaNueva As System.Windows.Forms.TextBox
@@ -229,6 +232,6 @@ Partial Class frmAjustes
     Friend WithEvents btnCerrar As System.Windows.Forms.Button
     Friend WithEvents LBLnom As System.Windows.Forms.Label
     Friend WithEvents LBLape As System.Windows.Forms.Label
-    Friend WithEvents lblEdad2 As System.Windows.Forms.Label
-    Friend WithEvents txtMail As System.Windows.Forms.TextBox
+    Friend WithEvents lblFechaDeNac As System.Windows.Forms.Label
+    Friend WithEvents lblEmail2 As System.Windows.Forms.Label
 End Class

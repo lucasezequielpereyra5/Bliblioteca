@@ -22,9 +22,9 @@ Partial Class frmPrincipal
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.txtUsuario = New System.Windows.Forms.TextBox()
+        Me.txtDni = New System.Windows.Forms.TextBox()
         Me.txtContraseña = New System.Windows.Forms.TextBox()
-        Me.lblUsuario = New System.Windows.Forms.Label()
+        Me.lblDni = New System.Windows.Forms.Label()
         Me.lblContraseña = New System.Windows.Forms.Label()
         Me.btnAceptar = New System.Windows.Forms.Button()
         Me.btnSalir = New System.Windows.Forms.Button()
@@ -34,12 +34,12 @@ Partial Class frmPrincipal
         Me.lblEnviado = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'txtUsuario
+        'txtDni
         '
-        Me.txtUsuario.Location = New System.Drawing.Point(96, 32)
-        Me.txtUsuario.Name = "txtUsuario"
-        Me.txtUsuario.Size = New System.Drawing.Size(146, 20)
-        Me.txtUsuario.TabIndex = 0
+        Me.txtDni.Location = New System.Drawing.Point(96, 32)
+        Me.txtDni.Name = "txtDni"
+        Me.txtDni.Size = New System.Drawing.Size(146, 20)
+        Me.txtDni.TabIndex = 0
         '
         'txtContraseña
         '
@@ -49,14 +49,14 @@ Partial Class frmPrincipal
         Me.txtContraseña.Size = New System.Drawing.Size(146, 20)
         Me.txtContraseña.TabIndex = 1
         '
-        'lblUsuario
+        'lblDni
         '
-        Me.lblUsuario.AutoSize = True
-        Me.lblUsuario.Location = New System.Drawing.Point(12, 35)
-        Me.lblUsuario.Name = "lblUsuario"
-        Me.lblUsuario.Size = New System.Drawing.Size(46, 13)
-        Me.lblUsuario.TabIndex = 2
-        Me.lblUsuario.Text = "Usuario:"
+        Me.lblDni.AutoSize = True
+        Me.lblDni.Location = New System.Drawing.Point(12, 35)
+        Me.lblDni.Name = "lblDni"
+        Me.lblDni.Size = New System.Drawing.Size(29, 13)
+        Me.lblDni.TabIndex = 2
+        Me.lblDni.Text = "DNI:"
         '
         'lblContraseña
         '
@@ -132,9 +132,9 @@ Partial Class frmPrincipal
         Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.btnAceptar)
         Me.Controls.Add(Me.lblContraseña)
-        Me.Controls.Add(Me.lblUsuario)
+        Me.Controls.Add(Me.lblDni)
         Me.Controls.Add(Me.txtContraseña)
-        Me.Controls.Add(Me.txtUsuario)
+        Me.Controls.Add(Me.txtDni)
         Me.Name = "frmPrincipal"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Login"
@@ -142,9 +142,9 @@ Partial Class frmPrincipal
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents txtUsuario As System.Windows.Forms.TextBox
+    Friend WithEvents txtDni As System.Windows.Forms.TextBox
     Friend WithEvents txtContraseña As System.Windows.Forms.TextBox
-    Friend WithEvents lblUsuario As System.Windows.Forms.Label
+    Friend WithEvents lblDni As System.Windows.Forms.Label
     Friend WithEvents lblContraseña As System.Windows.Forms.Label
     Friend WithEvents btnAceptar As System.Windows.Forms.Button
     Friend WithEvents btnSalir As System.Windows.Forms.Button

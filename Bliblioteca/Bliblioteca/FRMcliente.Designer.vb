@@ -23,17 +23,11 @@ Partial Class frmCliente
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.lblDatosDeLibros = New System.Windows.Forms.Label()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.Libro = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Editorial = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Cantidad = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FechaDeAlquilacion = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.FechaDeVencimiento = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Deuda = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.dgvListrarLibrosAlquiler = New System.Windows.Forms.DataGridView()
         Me.BTNsalir = New System.Windows.Forms.Button()
         Me.btnAjustes = New System.Windows.Forms.Button()
         Me.btnBuscarLibro = New System.Windows.Forms.Button()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgvListrarLibrosAlquiler, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'lblDatosDeLibros
@@ -46,44 +40,15 @@ Partial Class frmCliente
         Me.lblDatosDeLibros.TabIndex = 2
         Me.lblDatosDeLibros.Text = "Libros en alquiler:"
         '
-        'DataGridView1
+        'dgvListrarLibrosAlquiler
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Libro, Me.Editorial, Me.Cantidad, Me.FechaDeAlquilacion, Me.FechaDeVencimiento, Me.Deuda})
-        Me.DataGridView1.Location = New System.Drawing.Point(22, 123)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(645, 288)
-        Me.DataGridView1.TabIndex = 0
-        '
-        'Libro
-        '
-        Me.Libro.HeaderText = "Libro"
-        Me.Libro.Name = "Libro"
-        '
-        'Editorial
-        '
-        Me.Editorial.HeaderText = "Editorial"
-        Me.Editorial.Name = "Editorial"
-        '
-        'Cantidad
-        '
-        Me.Cantidad.HeaderText = "Cantidad"
-        Me.Cantidad.Name = "Cantidad"
-        '
-        'FechaDeAlquilacion
-        '
-        Me.FechaDeAlquilacion.HeaderText = "Fecha De Alquilación"
-        Me.FechaDeAlquilacion.Name = "FechaDeAlquilacion"
-        '
-        'FechaDeVencimiento
-        '
-        Me.FechaDeVencimiento.HeaderText = "Fecha de vencimiento"
-        Me.FechaDeVencimiento.Name = "FechaDeVencimiento"
-        '
-        'Deuda
-        '
-        Me.Deuda.HeaderText = "Deuda"
-        Me.Deuda.Name = "Deuda"
+        Me.dgvListrarLibrosAlquiler.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgvListrarLibrosAlquiler.Location = New System.Drawing.Point(22, 123)
+        Me.dgvListrarLibrosAlquiler.Name = "dgvListrarLibrosAlquiler"
+        Me.dgvListrarLibrosAlquiler.ReadOnly = True
+        Me.dgvListrarLibrosAlquiler.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
+        Me.dgvListrarLibrosAlquiler.Size = New System.Drawing.Size(645, 288)
+        Me.dgvListrarLibrosAlquiler.TabIndex = 0
         '
         'BTNsalir
         '
@@ -123,27 +88,21 @@ Partial Class frmCliente
         Me.ClientSize = New System.Drawing.Size(694, 447)
         Me.Controls.Add(Me.BTNsalir)
         Me.Controls.Add(Me.btnAjustes)
-        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.dgvListrarLibrosAlquiler)
         Me.Controls.Add(Me.lblDatosDeLibros)
         Me.Controls.Add(Me.btnBuscarLibro)
         Me.Name = "frmCliente"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Usuario"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvListrarLibrosAlquiler, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
     Friend WithEvents btnBuscarLibro As System.Windows.Forms.Button
     Friend WithEvents lblDatosDeLibros As System.Windows.Forms.Label
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents dgvListrarLibrosAlquiler As System.Windows.Forms.DataGridView
     Friend WithEvents btnAjustes As System.Windows.Forms.Button
     Friend WithEvents BTNsalir As System.Windows.Forms.Button
-    Friend WithEvents Libro As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Editorial As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Cantidad As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FechaDeAlquilacion As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents FechaDeVencimiento As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Deuda As System.Windows.Forms.DataGridViewTextBoxColumn
 
 End Class

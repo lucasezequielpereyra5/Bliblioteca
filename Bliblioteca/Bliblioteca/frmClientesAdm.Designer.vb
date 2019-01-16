@@ -30,6 +30,9 @@ Partial Class frmClientesAdm
         Me.btnAltas = New System.Windows.Forms.Button()
         Me.btnModificar = New System.Windows.Forms.Button()
         Me.pnlAlta = New System.Windows.Forms.Panel()
+        Me.lblBiblio = New System.Windows.Forms.Label()
+        Me.rbBibliotecario = New System.Windows.Forms.RadioButton()
+        Me.rbUusuario = New System.Windows.Forms.RadioButton()
         Me.dtpFechaNac = New System.Windows.Forms.DateTimePicker()
         Me.lblPass2 = New System.Windows.Forms.Label()
         Me.btnAgregar = New System.Windows.Forms.Button()
@@ -47,6 +50,8 @@ Partial Class frmClientesAdm
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.pnlModif = New System.Windows.Forms.Panel()
+        Me.btnModificarCliente = New System.Windows.Forms.Button()
+        Me.txtBuscarApellido = New System.Windows.Forms.TextBox()
         Me.dgvListarClientes = New System.Windows.Forms.DataGridView()
         Me.btnBuscarNombre = New System.Windows.Forms.Button()
         Me.btnBuscarDni = New System.Windows.Forms.Button()
@@ -57,8 +62,8 @@ Partial Class frmClientesAdm
         Me.Label8 = New System.Windows.Forms.Label()
         Me.HelpProvider1 = New System.Windows.Forms.HelpProvider()
         Me.btnSocios = New System.Windows.Forms.Button()
-        Me.txtBuscarApellido = New System.Windows.Forms.TextBox()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
+        Me.btnListar = New System.Windows.Forms.Button()
         Me.pnlAlta.SuspendLayout()
         Me.pnlModif.SuspendLayout()
         CType(Me.dgvListarClientes, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -120,6 +125,9 @@ Partial Class frmClientesAdm
         '
         'pnlAlta
         '
+        Me.pnlAlta.Controls.Add(Me.lblBiblio)
+        Me.pnlAlta.Controls.Add(Me.rbBibliotecario)
+        Me.pnlAlta.Controls.Add(Me.rbUusuario)
         Me.pnlAlta.Controls.Add(Me.dtpFechaNac)
         Me.pnlAlta.Controls.Add(Me.lblPass2)
         Me.pnlAlta.Controls.Add(Me.btnAgregar)
@@ -141,6 +149,40 @@ Partial Class frmClientesAdm
         Me.pnlAlta.Size = New System.Drawing.Size(627, 401)
         Me.pnlAlta.TabIndex = 11
         Me.pnlAlta.Visible = False
+        '
+        'lblBiblio
+        '
+        Me.lblBiblio.AutoSize = True
+        Me.lblBiblio.Enabled = False
+        Me.lblBiblio.Location = New System.Drawing.Point(115, 353)
+        Me.lblBiblio.Name = "lblBiblio"
+        Me.lblBiblio.Size = New System.Drawing.Size(300, 13)
+        Me.lblBiblio.TabIndex = 24
+        Me.lblBiblio.Text = "Solo los administradores pueden agregar nuevos bibliotecarios"
+        Me.lblBiblio.Visible = False
+        '
+        'rbBibliotecario
+        '
+        Me.rbBibliotecario.AutoSize = True
+        Me.rbBibliotecario.Location = New System.Drawing.Point(34, 351)
+        Me.rbBibliotecario.Name = "rbBibliotecario"
+        Me.rbBibliotecario.Size = New System.Drawing.Size(82, 17)
+        Me.rbBibliotecario.TabIndex = 23
+        Me.rbBibliotecario.TabStop = True
+        Me.rbBibliotecario.Text = "Bibliotecario"
+        Me.rbBibliotecario.UseVisualStyleBackColor = True
+        '
+        'rbUusuario
+        '
+        Me.rbUusuario.AutoSize = True
+        Me.rbUusuario.Checked = True
+        Me.rbUusuario.Location = New System.Drawing.Point(34, 327)
+        Me.rbUusuario.Name = "rbUusuario"
+        Me.rbUusuario.Size = New System.Drawing.Size(61, 17)
+        Me.rbUusuario.TabIndex = 22
+        Me.rbUusuario.TabStop = True
+        Me.rbUusuario.Text = "Usuario"
+        Me.rbUusuario.UseVisualStyleBackColor = True
         '
         'dtpFechaNac
         '
@@ -164,7 +206,7 @@ Partial Class frmClientesAdm
         '
         'btnAgregar
         '
-        Me.btnAgregar.Location = New System.Drawing.Point(277, 359)
+        Me.btnAgregar.Location = New System.Drawing.Point(469, 351)
         Me.btnAgregar.Name = "btnAgregar"
         Me.btnAgregar.Size = New System.Drawing.Size(143, 39)
         Me.btnAgregar.TabIndex = 19
@@ -279,6 +321,8 @@ Partial Class frmClientesAdm
         '
         'pnlModif
         '
+        Me.pnlModif.Controls.Add(Me.btnListar)
+        Me.pnlModif.Controls.Add(Me.btnModificarCliente)
         Me.pnlModif.Controls.Add(Me.txtBuscarApellido)
         Me.pnlModif.Controls.Add(Me.dgvListarClientes)
         Me.pnlModif.Controls.Add(Me.btnBuscarNombre)
@@ -288,18 +332,39 @@ Partial Class frmClientesAdm
         Me.pnlModif.Controls.Add(Me.Label10)
         Me.pnlModif.Controls.Add(Me.Label9)
         Me.pnlModif.Controls.Add(Me.Label8)
-        Me.pnlModif.Location = New System.Drawing.Point(27, 106)
+        Me.pnlModif.Location = New System.Drawing.Point(24, 106)
         Me.pnlModif.Name = "pnlModif"
         Me.pnlModif.Size = New System.Drawing.Size(627, 401)
         Me.pnlModif.TabIndex = 21
         '
+        'btnModificarCliente
+        '
+        Me.btnModificarCliente.Location = New System.Drawing.Point(20, 348)
+        Me.btnModificarCliente.Name = "btnModificarCliente"
+        Me.btnModificarCliente.Size = New System.Drawing.Size(595, 42)
+        Me.btnModificarCliente.TabIndex = 9
+        Me.btnModificarCliente.Text = "Modificar"
+        Me.btnModificarCliente.UseVisualStyleBackColor = True
+        '
+        'txtBuscarApellido
+        '
+        Me.txtBuscarApellido.Location = New System.Drawing.Point(165, 115)
+        Me.txtBuscarApellido.Name = "txtBuscarApellido"
+        Me.txtBuscarApellido.Size = New System.Drawing.Size(221, 20)
+        Me.txtBuscarApellido.TabIndex = 8
+        Me.ToolTip1.SetToolTip(Me.txtBuscarApellido, "Ingrese apellido")
+        '
         'dgvListarClientes
         '
+        Me.dgvListarClientes.AllowUserToAddRows = False
+        Me.dgvListarClientes.AllowUserToDeleteRows = False
         Me.dgvListarClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvListarClientes.Cursor = System.Windows.Forms.Cursors.Hand
         Me.dgvListarClientes.Location = New System.Drawing.Point(20, 141)
+        Me.dgvListarClientes.MultiSelect = False
         Me.dgvListarClientes.Name = "dgvListarClientes"
-        Me.dgvListarClientes.Size = New System.Drawing.Size(575, 243)
+        Me.dgvListarClientes.ReadOnly = True
+        Me.dgvListarClientes.Size = New System.Drawing.Size(595, 203)
         Me.dgvListarClientes.TabIndex = 7
         '
         'btnBuscarNombre
@@ -359,7 +424,7 @@ Partial Class frmClientesAdm
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(27, 10)
+        Me.Label8.Location = New System.Drawing.Point(33, 6)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(185, 24)
         Me.Label8.TabIndex = 0
@@ -374,13 +439,16 @@ Partial Class frmClientesAdm
         Me.btnSocios.Text = "Clientes Socios"
         Me.btnSocios.UseVisualStyleBackColor = True
         '
-        'txtBuscarApellido
+        'btnListar
         '
-        Me.txtBuscarApellido.Location = New System.Drawing.Point(165, 115)
-        Me.txtBuscarApellido.Name = "txtBuscarApellido"
-        Me.txtBuscarApellido.Size = New System.Drawing.Size(221, 20)
-        Me.txtBuscarApellido.TabIndex = 8
-        Me.ToolTip1.SetToolTip(Me.txtBuscarApellido, "Ingrese apellido")
+        Me.btnListar.Image = Global.frmPrincipal.My.Resources.Resources.lupa2
+        Me.btnListar.Location = New System.Drawing.Point(412, 28)
+        Me.btnListar.Name = "btnListar"
+        Me.btnListar.Size = New System.Drawing.Size(125, 37)
+        Me.btnListar.TabIndex = 10
+        Me.btnListar.Text = "Listar"
+        Me.btnListar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btnListar.UseVisualStyleBackColor = True
         '
         'frmClientesAdm
         '
@@ -389,13 +457,13 @@ Partial Class frmClientesAdm
         Me.ClientSize = New System.Drawing.Size(689, 519)
         Me.Controls.Add(Me.btnSocios)
         Me.Controls.Add(Me.pnlModif)
-        Me.Controls.Add(Me.pnlAlta)
         Me.Controls.Add(Me.btnModificar)
         Me.Controls.Add(Me.btnAltas)
         Me.Controls.Add(Me.btnDevolvucion)
         Me.Controls.Add(Me.btnInv)
         Me.Controls.Add(Me.btnAdm)
         Me.Controls.Add(Me.btnInicio)
+        Me.Controls.Add(Me.pnlAlta)
         Me.IsMdiContainer = True
         Me.Name = "frmClientesAdm"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -444,4 +512,9 @@ Partial Class frmClientesAdm
     Friend WithEvents dtpFechaNac As System.Windows.Forms.DateTimePicker
     Friend WithEvents txtBuscarApellido As System.Windows.Forms.TextBox
     Friend WithEvents ToolTip1 As System.Windows.Forms.ToolTip
+    Friend WithEvents rbBibliotecario As System.Windows.Forms.RadioButton
+    Friend WithEvents rbUusuario As System.Windows.Forms.RadioButton
+    Friend WithEvents lblBiblio As System.Windows.Forms.Label
+    Friend WithEvents btnModificarCliente As System.Windows.Forms.Button
+    Friend WithEvents btnListar As System.Windows.Forms.Button
 End Class
